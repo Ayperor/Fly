@@ -1,0 +1,35 @@
+E:\Users\cmanns\Documents\Projects\Visual Studio 2010\Fly\bin\Debug\Fly.exe.config
+E:\Users\cmanns\Documents\Projects\Visual Studio 2010\Fly\bin\Debug\Fly.exe
+E:\Users\cmanns\Documents\Projects\Visual Studio 2010\Fly\bin\Debug\Fly.pdb
+E:\Users\cmanns\Documents\Projects\Visual Studio 2010\Fly\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\cmanns\Documents\Projects\Visual Studio 2010\Fly\obj\x86\Debug\Fly.Fly.resources
+E:\Users\cmanns\Documents\Projects\Visual Studio 2010\Fly\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Users\cmanns\Documents\Projects\Visual Studio 2010\Fly\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+E:\Users\cmanns\Documents\Projects\Visual Studio 2010\Fly\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Users\cmanns\Documents\Projects\Visual Studio 2010\Fly\obj\x86\Debug\Fly.exe
+E:\Users\cmanns\Documents\Projects\Visual Studio 2010\Fly\obj\x86\Debug\Fly.pdb
+Z:\Current\Visual Studio 2010\Fly\obj\x86\Debug\Fly.pdb
+Z:\Current\Visual Studio 2010\Fly\bin\Debug\Fly.pdb
+Z:\Current\Visual Studio 2010\Fly\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Current\Visual Studio 2010\Fly\obj\x86\Debug\Fly.Fly.resources
+Z:\Current\Visual Studio 2010\Fly\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+Z:\Current\Visual Studio 2010\Fly\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+Z:\Current\Visual Studio 2010\Fly\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+Z:\Current\Visual Studio 2010\Fly\bin\Debug\Fly.dll.config
+Z:\Current\Visual Studio 2010\Fly\bin\Debug\Fly.dll
+Z:\Current\Visual Studio 2010\Fly\obj\x86\Debug\Fly.dll
+D:\Projects\Fly\bin\Debug\Fly.dll.config
+D:\Projects\Fly\bin\Debug\Fly.dll
+D:\Projects\Fly\bin\Debug\Fly.pdb
+D:\Projects\Fly\obj\x86\Debug\Fly.Fly.resources
+D:\Projects\Fly\obj\x86\Debug\Fly.vbproj.GenerateResource.Cache
+D:\Projects\Fly\obj\x86\Debug\Fly.dll
+D:\Projects\Fly\obj\x86\Debug\Fly.pdb
+D:\Projects\Fly-as-dll\bin\Debug\Fly.exe.config
+D:\Projects\Fly-as-dll\bin\Debug\Fly.exe
+D:\Projects\Fly-as-dll\bin\Debug\Fly.pdb
+D:\Projects\Fly-as-dll\obj\x86\Debug\Fly.Fly.resources
+D:\Projects\Fly-as-dll\obj\x86\Debug\Fly.vbproj.GenerateResource.Cache
+D:\Projects\Fly-as-dll\obj\x86\Debug\Fly.exe
+D:\Projects\Fly-as-dll\obj\x86\Debug\Fly.pdb
+D:\Projects\fly\bin\Debug\Fly.exe.config

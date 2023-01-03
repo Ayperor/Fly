@@ -1,0 +1,17 @@
+D:\Projects\fly\bin\Release\Fly.exe.config
+D:\Projects\fly\bin\Release\Fly.exe
+D:\Projects\fly\bin\Release\Fly.pdb
+D:\Projects\fly\obj\x86\Release\Fly.Fly.resources
+D:\Projects\fly\obj\x86\Release\Fly.vbproj.GenerateResource.Cache
+D:\Projects\fly\obj\x86\Release\Fly.exe
+D:\Projects\fly\obj\x86\Release\Fly.pdb
+D:\Projects\fly\obj\x86\Release\Fly.resFly.resources
+D:\Projects\Desktop Mates\fly\bin\Release\Fly.exe.config
+D:\Projects\Desktop Mates\fly\obj\x86\Release\Fly.exe
+D:\Projects\Desktop Mates\fly\obj\x86\Release\Fly.pdb
+D:\Projects\Desktop Mates\fly\bin\Release\Fly.exe
+D:\Projects\Desktop Mates\fly\bin\Release\Fly.pdb
+D:\Projects\Desktop Mates\fly\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\Desktop Mates\fly\obj\x86\Release\Fly.Fly.resources
+D:\Projects\Desktop Mates\fly\obj\x86\Release\Fly.resFly.resources
+D:\Projects\Desktop Mates\fly\obj\x86\Release\Fly.vbproj.GenerateResource.Cache
