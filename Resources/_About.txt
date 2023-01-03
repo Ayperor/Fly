@@ -1,0 +1,8 @@
+﻿Mosca (fly)
+Completed: 9:28 PM 1/13/2021
+Chris Morningstar
+Although the heavy work on this was done in 2017, today I removed the need for the external
+gif files and compiled a release of the fly.  The fly pictures are in the resFly resource 
+file now and fly.exe can run on any machine with the .net 3.5 framework installed.
+
+Runs on ishtar (special windows 2000)  
